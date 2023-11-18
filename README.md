@@ -1,2 +1,2 @@
 # igorm
-an orm 
+an orm framework in go
